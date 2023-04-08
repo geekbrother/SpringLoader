@@ -1,6 +1,6 @@
 {
   "name": "spring-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gradient spring animated loading activity indicator component for React Native",
   "main": "src/index.tsx",
   "scripts": {
