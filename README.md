@@ -20,6 +20,10 @@ Import the `SpringLoader` component `import { AnimationTypes, SpringLoader } fro
 
 Find a full usage example in [examples/expo-app/App.tsx](https://github.com/geekbrother/SpringLoader/blob/main/examples/expo-app/App.tsx).
 
+## Example app
+
+There is an `Expo` example app with the showcase in the `examples/expo-app` folder.
+
 ## Todo
 
 Implement a [Skia](https://github.com/Shopify/react-native-skia) version
