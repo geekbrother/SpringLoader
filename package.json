@@ -1,0 +1,47 @@
+{
+  "name": "spring-loader",
+  "version": "1.0.0",
+  "description": "Gradient spring animated loading activity indicator component for React Native",
+  "main": "src/index.tsx",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekbrother/SpringLoader.git"
+  },
+  "keywords": [
+    "activity",
+    "indicator",
+    "loader",
+    "activity",
+    "react",
+    "native",
+    "reanimated",
+    "svg"
+  ],
+  "author": 
+    {
+      "name" : "Max Kalashnikoff",
+      "email" : "geekmaks@gmail.com",
+      "url" : "https://github.com/geekbrother"
+    },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekbrother/SpringLoader/issues"
+  },
+  "homepage": "https://github.com/geekbrother/SpringLoader#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-typescript": "^7.21.4",
+    "@types/react": "~18.0.14",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native-reanimated": "^2",
+    "react-native-svg": "^13.9.0"
+  }
+}
