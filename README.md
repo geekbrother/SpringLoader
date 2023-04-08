@@ -10,6 +10,13 @@ It's lightweight, made in TypeScript, and can be used in the Splash screen (unli
 
 ![alt Showcase](https://github.com/geekbrother/SpringLoader/blob/main/assets/showcase.gif)
 
+## What's included:
+
+- Spring animation;
+- Wave animation;
+- Array of the rgb colors for the linear gradient as a prop;
+- Animation of poping and hiding when the loading state changes.
+
 ## How to use
 
 The package uses TypeScript and provides types when importing. 
